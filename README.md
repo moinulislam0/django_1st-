@@ -1,0 +1,1 @@
+First you need to install python.Then create the folder.And follow to the instruction when project create django-admin startproject project-name.  Django must be installed and while activating some command to follow .via env\Scripts\active to activate .And to run the server python manage.py runserver.
